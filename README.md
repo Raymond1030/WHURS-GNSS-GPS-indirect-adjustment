@@ -5,6 +5,8 @@ GNSS/GPS网-间接平差
 `@date：2021.4.28`
 `@language：C++`
 
+源数据：[GNSS-BaseL.txt](https://github.com/Raymond1030/GNSS-GPS-indirect-adjustment/blob/main/GNSS_Indirect_Adjustment/GNSS-BaseL.txt)
+
 ## 项目文件:
 
 - GNSS.cpp：
@@ -30,6 +32,7 @@ GNSS/GPS网-间接平差
   > Measurement_adjustment
   >
   > 间接平差公式
+
 
 
 
