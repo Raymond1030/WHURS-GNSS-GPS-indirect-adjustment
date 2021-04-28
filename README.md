@@ -25,12 +25,13 @@ GNSS/GPS网-间接平差
 
   > Class of Matrix 
   >
-  > 别人写的一个矩阵类  
+  > 矩阵类  
 
-- [[Measurement_adjustment.cpp](https://github.com/Raymond1030/GNSS-GPS-indirect-adjustment/blob/main/GNSS_Indirect_Adjustment/Measurement_adjustment.cpp)](https://github.com/Raymond1030/GNSS-GPS-indirect-adjustment/blob/main/GNSS_Indirect_Adjustment/matrix.h)
+- [Measurement_adjustment.cpp](https://github.com/Raymond1030/GNSS-GPS-indirect-adjustment/blob/main/GNSS_Indirect_Adjustment/Measurement_adjustment.cpp)
 
   > Measurement_adjustment
   >
   > 间接平差公式
+
 
 
