@@ -1,4 +1,4 @@
-# WHU-GNSS-GPS-indirect-adjustment
+# WHURS-GNSS-GPS-indirect-adjustment
 
 GNSS/GPS网-间接平差
 `@author: czy 老师：陈志勇`
