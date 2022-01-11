@@ -1,4 +1,4 @@
-# WHURS-GNSS-GPS-indirect-adjustment
+# 间接平差程序
 
 GNSS/GPS网-间接平差
 `@author: czy 老师：陈志勇`
